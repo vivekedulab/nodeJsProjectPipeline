@@ -1,5 +1,5 @@
 {
-  "app":[ 
+  "apps":[ 
     {
       "name": "myApp",
       "script": "server.js"
